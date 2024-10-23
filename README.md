@@ -5,7 +5,6 @@
 - 📫 How to reach me: yangxaw@gmail.com 🧑‍💻: https://www.yangxaw.com (Password: CoolWork)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am a natural hype man for any setting when the energy needs to be hyped up 😎 
-- 
 <!---
 xyang-hmg/xyang-hmg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
